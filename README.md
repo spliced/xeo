@@ -2,7 +2,7 @@
 
 [pug](https://github.com/pugjs) + [less](https://github.com/less/less.js) -> pdf
 
-![example](http://i.imgur.com/G2svIjQ.png)
+![example](http://i.imgur.com/PZ8JPOa.png)
 
 ## Installation
 
