@@ -6,7 +6,7 @@
 
 ## Installation
 
-`npm install xeo`
+`npm install --save xeo`
 
 ## Test
 
