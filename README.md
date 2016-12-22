@@ -34,5 +34,5 @@ let redCount = colorCount(votes, 'red')
 console.log(redCount)
 //  2
 ```
-###[full documentation](http://codepen.io/spliced/pen/BQMMBX)
+###[full documentation](http://codepen.io/spliced/full/BQMMBX/)
 * * *
