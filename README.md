@@ -1,4 +1,4 @@
-##quickstart<sup>[<a href="https://github.com/spliced/xeo/blob/master/xeo-min.js">4.21KB</a>]</sup>
+##quickstart<sup>[[4.21KB](https://github.com/spliced/xeo/blob/master/xeo-min.js)]</sup>
 xeo has no dependencies, just drop it into your html:
 ```javascript
 <script src="/path/to/xeo-min.js"></script>
@@ -9,9 +9,9 @@ xeo has no dependencies, just drop it into your html:
 </script>
 ```
 
-###<a href="https://www.npmjs.com/package/xeo">...or use server-side</a>
+###[...or use server-side](https://www.npmjs.com/package/xeo)
 
-##exec(<i>array, fns[, fold]</i>)
+##exec(_array, fns[, fold]_)
 ```javascript
 let arr = ['here', 'are', 'some', 'strings', 'in an array']
 let smallChunk = xeo.exec(arr, '/2 :<8')
