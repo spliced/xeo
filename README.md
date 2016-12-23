@@ -10,6 +10,7 @@ xeo has no dependencies, just drop it into your html:
 ```
 
 ###[...or use server-side](https://www.npmjs.com/package/xeo)
+***
 
 ##exec(_array, fns[, fold]_)
 ```javascript
@@ -35,4 +36,3 @@ console.log(redCount)
 //  2
 ```
 ###[full documentation](http://codepen.io/spliced/full/BQMMBX/)
-* * *
