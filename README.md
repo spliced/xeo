@@ -36,3 +36,5 @@ console.log(redCount)
 //  2
 ```
 ###[full documentation](http://codepen.io/spliced/full/BQMMBX/)
+***
+docs styled with `pug` and `less`
