@@ -1,4 +1,4 @@
-##quickstart<sup>[[4.21KB](https://github.com/spliced/xeo/blob/master/xeo-min.js)]</sup>
+##quickstart<sup>[[4.21KB](https://raw.githubusercontent.com/spliced/xeo/master/xeo-min.js)]</sup>
 xeo has no dependencies, just drop it into your html:
 ```javascript
 <script src="/path/to/xeo-min.js"></script>
