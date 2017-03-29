@@ -1,4 +1,4 @@
-##quickstart<sup>[[4.21KB](https://raw.githubusercontent.com/spliced/xeo/master/xeo-min.js)]</sup>
+## quickstart<sup>[[4.21KB](https://raw.githubusercontent.com/spliced/xeo/master/xeo-min.js)]</sup>
 xeo has no dependencies, just drop it into your html:
 ```javascript
 <script src="/path/to/xeo-min.js"></script>
@@ -9,10 +9,10 @@ xeo has no dependencies, just drop it into your html:
 </script>
 ```
 
-###[...or use server-side](https://www.npmjs.com/package/xeo)
+### [...or use server-side](https://www.npmjs.com/package/xeo)
 ***
 
-##exec(_array, fns[, fold]_)
+## exec(_array, fns[, fold]_)
 ```javascript
 let arr = ['here', 'are', 'some', 'strings', 'in an array']
 let smallChunk = xeo.exec(arr, '/2 :<8')
@@ -35,6 +35,6 @@ let redCount = colorCount(votes, 'red')
 console.log(redCount)
 //  2
 ```
-###[full documentation](http://codepen.io/spliced/full/BQMMBX/)
+### [full documentation](http://codepen.io/spliced/full/BQMMBX/)
 ***
 docs styled with `pug` and `less`
